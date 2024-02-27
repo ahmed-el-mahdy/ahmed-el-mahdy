@@ -12,10 +12,10 @@
 </p> 
 
 - 🏢 I'm a System Admin | Cloud DevOps Engineer, 🔭 I’m currently working on Julfar Consultancy Services.
-- 👨‍💻 As I'm in love with Infrastructure Automation, CyberSecurity, Managing Servers, and writing DevOps code to build and automate the whole project at all stages 
-- 🌱 I’m currently learning more about the DevOps Tools and automating Tools,
-- 💬 Ask me about my experience with Network Operations, Server Management, Active Directory, and Linux Server cybersecurity knowledge.
-- ⚡ Fun Fact: I'm a Gamer challenger and I like to get challenged, as well as learn new technology.
+- 👨‍💻 As I'm in love with Infrastructure Automation, CyberSecurity, Managing Servers, Vm-Horizon, AWS Archtecture, and writing DevOps code to build and automate the whole project at all stages 
+- 🌱 I’m currently learning more about DevOps Tools and Automating Tools, Cybersecurity, and Python🐍.
+- 💬 Ask me about my experience with Network Operations, Server Management, Active Directory, Linux Server, and cybersecurity knowledge.
+- ⚡ Fun Fact: I'm a Learner challenger and I like to get challenged, as well as gaming Challenges 😄.
 
 
 
