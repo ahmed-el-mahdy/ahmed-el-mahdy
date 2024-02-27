@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a System Admin | Cloud DevOps Engineer, 🔭 I’m currently working on Julfar Consultancy Services.
-- 👨‍💻 As I'm in love with Infrastructure Automation, CyberSecurity, Managing Servers, Vm-Horizon, AWS Archtecture, and writing DevOps code to build and automate the whole project at all stages 
+- 👨‍💻 As I'm in love with Infrastructure Automation, CyberSecurity, Managing Servers, Vm-Horizon, AWS Architecture, and writing DevOps code to build and automate the whole project at all stages 
 - 🌱 I’m currently learning more about DevOps Tools and Automating Tools, Cybersecurity, and Python🐍.
 - 💬 Ask me about my experience with Network Operations, Server Management, Active Directory, Linux Server, and cybersecurity knowledge.
 - ⚡ Fun Fact: I'm a Learner challenger and I like to get challenged, as well as gaming Challenges 😄.
@@ -49,8 +49,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmadfoadd&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciscosky&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=Ahmadfoadd&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ahmadfoadd&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=ciscosky&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ciscosky&style=for-the-badge">
 </a>
