@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=System%20Admin%20|%20DevOps%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a System Admin | Cloud DevOps Engineer, 🔭 I’m currently working on Julfar Consultancy Services.
+- 🏢 I'm a Cloud DevOps Engineer | System Admin, 🔭 I’m currently working on Julfar Consultancy Services.
 - 👨‍💻 As I'm in love with Infrastructure Automation, CyberSecurity, Managing Servers, Vm-Horizon, AWS Architecture, and writing DevOps code to build and automate the whole project at all stages 
 - 🌱 I’m currently learning more about DevOps Tools and Automating Tools, Cybersecurity, and Python🐍.
 - 💬 Ask me about my experience with Network Operations, Server Management, Active Directory, Linux Server, and cybersecurity knowledge.
