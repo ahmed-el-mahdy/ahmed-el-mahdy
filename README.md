@@ -8,7 +8,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer|System%20Admin%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+</p>
 
 - 🏢 I'm a Cloud DevOps Engineer | System Admin, 🔭 I’m currently working on Julfar Consultancy Services.
 - 👨‍💻 As I'm in love with Infrastructure Automation, CyberSecurity, Managing Servers, Vm-Horizon, AWS Architecture, and writing DevOps code to build and automate the whole project at all stages.
@@ -16,15 +16,17 @@
 - 💬 Ask me about my experience with Network Operations, Server Management, Active Directory, Linux Server, and cybersecurity knowledge.
 - ⚡ Fun Fact: I'm a Learner challenger and I like to get challenged, as well as gaming Challenges 😄.
 
-### Connect with Me :
+### Connect with Me:
 
 <a href="https://linkedin.com/in/ahmed-el-mahdy-007" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Elmahdy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Skills
+![Bash](https://img.shields.io/badge/bash-%2314B8A6.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![CircleCI](https://img.shields.io/circleci/build/github/Ahmed%20Elmahdy/CloudFormation-Project2?logo=CircleCi&logoColor=rgb&label=CircleCi&link=https%3A%2F%2Fgithub.com%2Fciscosky%2FCloudFormation-Project2)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-%23F7931E.svg?style=flat&logo=circleci&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -49,7 +51,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-%230F0E0D.svg?style=flat&logo=terraform&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230066CC.svg?style=flat&logo=cybersecurity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?style=flat&logo=sqlite&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23C0C0C0.svg?style=flat&logo=cybersecurity&logoColor=black)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciscosky&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
