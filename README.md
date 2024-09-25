@@ -33,7 +33,8 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows Servers](https://img.shields.io/badge/Windows%20Servers-0078D6?style=flat&logo=windows&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office%20365-0078D6?style=flat&logo=microsoft-office&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2b%2b&logoColor=black)
@@ -51,6 +52,13 @@
 ![Terraform](https://img.shields.io/badge/Terraform-%230F0E0D.svg?style=flat&logo=terraform&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230066CC.svg?style=flat&logo=cybersecurity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?style=flat&logo=sqlite&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-%23FF0000.svg?style=flat&logo=firewall&logoColor=white)
+![Endpoint Security](https://img.shields.io/badge/Endpoint%20Security-%239B59F2.svg?style=flat&logo=security&logoColor=white)
+![Wireless Networks](https://img.shields.io/badge/Wireless%20Networks-%2331A8FF.svg?style=flat&logo=wireless&logoColor=white)
+![Switches](https://img.shields.io/badge/Switches-%230091D3.svg?style=flat&logo=switch&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-%23FFBF00.svg?style=flat&logo=network&logoColor=white)
+![Sophos Firewall](https://img.shields.io/badge/Sophos%20Firewall-%23FF6600.svg?style=flat&logo=sophos&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-%23B94B15.svg?style=flat&logo=fortinet&logoColor=white)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciscosky&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
