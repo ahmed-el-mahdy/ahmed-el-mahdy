@@ -10,11 +10,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer|System%20Admin%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🏢 I'm a Cloud DevOps Engineer | System Admin, 🔭 I’m currently working on Julfar Consultancy Services.
-- 👨‍💻 As I'm in love with Infrastructure Automation, CyberSecurity, Managing Servers, Vm-Horizon, AWS Architecture, and writing DevOps code to build and automate the whole project at all stages.
-- 🌱 I’m currently learning more about DevOps Tools and Automating Tools, Cybersecurity, and Python🐍.
-- 💬 Ask me about my experience with Network Operations, Server Management, Active Directory, Linux Server, and cybersecurity knowledge.
-- ⚡ Fun Fact: I'm a Learner challenger and I like to get challenged, as well as gaming Challenges 😄.
+- 🏢 Cloud & DevOps Engineer specializing in Azure, AWS, Terraform, Kubernetes, CI/CD, and infrastructure automation.
+- 🔭 Currently working at Julfar Consultancy Services, contributing to cloud platform modernization, deployment automation, microservice onboarding, and environment stabilization.
+- 👨‍💻 Passionate about Infrastructure as Code, Kubernetes platforms, cloud architecture, secure delivery pipelines, and operational reliability.
+- 🌱 Currently deepening my expertise in Azure, GitHub Actions, Argo CD, Python, and cloud governance.
+- 💬 Ask me about Azure, AWS, Terraform, Kubernetes, Linux, CI/CD, infrastructure recovery, and system administration.
+- ⚡ Fun fact: I enjoy solving complex infrastructure challenges and building scalable, reliable platforms.
 
 ### Connect with Me:
 
