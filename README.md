@@ -2,6 +2,7 @@
 <h3 align="center">Platform / DevOps Engineer</h3>
 
 <p align="center">
+  <a href="https://ahmed-el-mahdy.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:a.elmahdy.mail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ahmed-el-mahdy-007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.credly.com/users/ahmed-el-mahdy-mohammad/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
