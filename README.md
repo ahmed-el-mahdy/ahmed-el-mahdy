@@ -26,6 +26,26 @@ At Mosadad, my platform scope includes **six .NET backend services on AKS**, **t
 
 [CV bullets, measured outcomes and STAR stories](https://github.com/ahmed-el-mahdy/Career-Advance). Reviewed 30 October 2026; figures describe dated delivery evidence, not current live inventory, guaranteed uptime or tested regional recovery.
 
+### Experience Reference
+
+| Period | Role and context | Focus |
+| --- | --- | --- |
+| 2026 - Present | Platform/DevOps Engineer, Julfar | Client platforms including Mosadad; migrations, Terraform, AKS, secure delivery and API automation |
+| 2021 - 2025 | System Administrator, Julfar | Systems/cloud operations, automation, CI/CD support and incident response |
+| 2024 - 2025 | DEPI - MCIT internship | Collaborative AWS application and infrastructure delivery |
+| 2022 - 2023 | MCIT and Udacity training | AWS infrastructure and CircleCI delivery lifecycle |
+| 2019 - 2020 | Infrastructure and Systems, Shatta | Virtualization, networking, secure connectivity and monitoring |
+
+Mosadad is client delivery under Julfar. My ActionAI onboarding reference covers one service across three environments. Public examples below demonstrate implementation patterns; they are not employer production repositories.
+
+```mermaid
+flowchart LR
+  Plan["Review ownership and change risk"] --> Build["Infrastructure and delivery automation"]
+  Build --> Validate["Workload, identity and data validation"]
+  Validate --> Operate["Observe, document and improve"]
+  Operate --> Plan
+```
+
 ---
 
 ### Certifications
@@ -34,8 +54,8 @@ At Mosadad, my platform scope includes **six .NET backend services on AKS**, **t
   <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SC--300-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/CKA_Exam_Ready-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--104_Exam_Ready-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/CKA_Study_Paused-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--104_Training_Complete-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
