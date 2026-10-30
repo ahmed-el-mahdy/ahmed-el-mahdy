@@ -12,9 +12,19 @@
 
 ### About Me
 
-Cloud & DevOps Engineer with 5+ years designing and delivering production platforms on **Azure** and **AWS**. I specialize in Kubernetes orchestration, Terraform IaC, and building DRY CI/CD pipelines that ship microservices reliably across multiple environments.
+Cloud & DevOps Engineer working with **Azure** and **AWS**. I focus on Kubernetes operations, Terraform, controlled migrations and repeatable delivery for inherited platforms.
 
-Currently operating **4 AKS clusters** with **7+ microservices** across dev/qa/staging/prod — end-to-end from infrastructure provisioning to application deployment and observability.
+At Mosadad, my platform scope includes **six .NET backend services on AKS**, **two App Service portals**, and separate Functions and VM payment deployment paths. My experience spans infrastructure ownership, network/identity troubleshooting, data migration, API publishing and observability.
+
+### Selected Delivery Experience
+
+- Delivered phased staging2 migration work for six backends and two portals, with immutable images, direct-backend checks and service-by-service API cutover.
+- Replicated **91,724 application blobs** across three containers with exact name/size parity at the recorded checkpoint, read-only source access and no-delete target permissions.
+- Verified an **18-key Key Vault/CSI contract** and removed temporary vault-scoped operator access after validation.
+- Standardized workflows across **six repositories and four branches**, validating **18 promotion merge paths**, then added a five-branch source-contract guard for a later build regression.
+- Modernized the MongoDB-compatible data path in separate migration stages and made APIM Swagger publishing repeatable rather than dependent on manual release repair.
+
+[CV bullets, measured outcomes and STAR stories](https://github.com/ahmed-el-mahdy/Career-Advance). Reviewed 30 October 2026; figures describe dated delivery evidence, not current live inventory, guaranteed uptime or tested regional recovery.
 
 ---
 
@@ -56,10 +66,10 @@ Currently operating **4 AKS clusters** with **7+ microservices** across dev/qa/s
 
 | Repository | Description | Stack |
 |:-----------|:------------|:------|
-| [**azure-aks-platform**](https://github.com/ahmed-el-mahdy/azure-aks-platform) | Production Terraform modules for AKS + APIM + Key Vault + Hub-Spoke networking | `Terraform` `Azure` `AKS` |
-| [**kustomize-multi-env-k8s**](https://github.com/ahmed-el-mahdy/kustomize-multi-env-k8s) | Base + overlays pattern for 4 environments with CSI secrets | `Kustomize` `K8s` `CSI` |
+| [**azure-aks-platform**](https://github.com/ahmed-el-mahdy/azure-aks-platform) | Five-module Terraform reference with a dev composition; not a complete production landing zone | `Terraform` `Azure` `AKS` |
+| [**kustomize-multi-env-k8s**](https://github.com/ahmed-el-mahdy/kustomize-multi-env-k8s) | Three workloads with dev/prod overlays and CSI references | `Kustomize` `K8s` `CSI` |
 | [**github-actions-reusable-workflows**](https://github.com/ahmed-el-mahdy/github-actions-reusable-workflows) | DRY CI/CD templates: build, scan, deploy to AKS, APIM import | `GitHub Actions` `Docker` `ACR` |
-| [**argocd-helm-deployments**](https://github.com/ahmed-el-mahdy/argocd-helm-deployments) | Helm charts + ArgoCD ApplicationSets for GitOps microservice delivery | `ArgoCD` `Helm` `GitOps` |
+| [**argocd-helm-deployments**](https://github.com/ahmed-el-mahdy/argocd-helm-deployments) | One API with dev/prod Helm values, automatic dev reconciliation and manual prod sync | `ArgoCD` `Helm` `GitOps` |
 
 ---
 
@@ -74,10 +84,10 @@ Platform Engineering:
   - Secure delivery: Key Vault CSI, Entra RBAC, WAF, network segmentation
 
 Day-to-Day:
-  - Operate 4 AKS clusters across dev/qa/staging/prod
+  - Operate environment-specific AKS workloads and their application dependencies
   - Ship .NET 8 microservices with Angular frontends
   - Monitor with Prometheus + Grafana + Application Insights
-  - Stabilize inherited platforms and eliminate infrastructure drift
+  - Stabilize inherited platforms through reviewed plans and measured validation gates
 ```
 
 ---
