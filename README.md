@@ -24,7 +24,7 @@ At Mosadad, my platform scope includes **six .NET backend services on AKS**, **t
 - Standardized workflows across **six repositories and four branches**, validating **18 promotion merge paths**, then added a five-branch source-contract guard for a later build regression.
 - Modernized the MongoDB-compatible data path in separate migration stages and made APIM Swagger publishing repeatable rather than dependent on manual release repair.
 
-[CV bullets, measured outcomes and STAR stories](https://github.com/ahmed-el-mahdy/Career-Advance). Reviewed 30 October 2026; figures describe dated delivery evidence, not current live inventory, guaranteed uptime or tested regional recovery.
+[CV, measured outcomes and delivery evidence](https://ahmed-el-mahdy.github.io/). Reviewed 30 October 2026; figures describe dated delivery evidence, not current live inventory, guaranteed uptime or tested regional recovery.
 
 ### Experience Reference
 
